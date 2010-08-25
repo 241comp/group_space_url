@@ -1,0 +1,7 @@
+core = "6.x"
+dependencies[] = "views"
+description = "Expose an OG node's spaces URL."
+name = "Group Space URL"
+package = "Views"
+project = "group_space_url"
+version = "6.x-1.0"
